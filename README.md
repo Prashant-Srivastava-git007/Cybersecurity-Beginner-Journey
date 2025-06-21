@@ -32,7 +32,8 @@ This repository documents everything I learn step-by-step — from theory to han
 
 ## 📌 Table of Contents
 
-[Basics](Basics/Introduction)
+1- [Basics](Basics/Introduction)
+2- [Networking](Networking)
 
 
 ---
