@@ -32,6 +32,7 @@ This repository documents everything I learn step-by-step — from theory to han
 
 ## 📌 Table of Contents
 
+Basics/Introduction.md
 
 
 ---
