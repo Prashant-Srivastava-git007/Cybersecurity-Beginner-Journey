@@ -50,6 +50,11 @@ Even after adding to the same group, the file should remain inaccessible due to 
 
 ---
 
+### Findings
+![Permission Test Results](../Assets/result.png)
+
+---
+
 🧠 Mission Objective: Ensure only agent007 has access. Others — even in the same group — must be denied.
 
 
