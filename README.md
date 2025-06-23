@@ -43,7 +43,7 @@ This repository documents everything I learn step-by-step — from theory to han
 
 ### 🛠️ Hands-On Tools
 - [🔍 Introduction to Wireshark](Tools/Wireshark_Intro.md)
-- [💻 Introduction to Linux](Tools/Linux)
+- [💻 Linux](Tools/Linux)
 
 ---
 
