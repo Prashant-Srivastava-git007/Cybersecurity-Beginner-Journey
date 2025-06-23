@@ -42,7 +42,7 @@ This repository documents everything I learn step-by-step — from theory to han
 - [🔌 Ports and Protocols](Networking/Ports_and_Protocols.md)
 
 ### 🛠️ Hands-On Tools
-- [🔍 Introduction to Wireshark](Tools/Wireshark_Intro.md)
+- [🔍 Introduction to Wireshark](Tools/Wireshark)
 - [💻 Linux](Tools/Linux)
 
 ---
