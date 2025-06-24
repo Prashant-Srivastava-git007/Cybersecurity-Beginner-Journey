@@ -1,4 +1,4 @@
-# Lab - 2 🛡️ Secure Backup Mission
+# 🧪 Lab Practice 🛡️ Secure Backup Mission
 
 🕵️‍♂️ **Role**: Junior Security Analyst  
 🎯 **Goal**: Back up critical system configs and prepare for full recovery
@@ -16,7 +16,7 @@ Your task:
 
 ---
 
-# ✅ Solution: Secure Backup and Recovery
+# 🧩 Solution
 
 Follow these steps to back up and restore a sensitive configuration directory:
 
