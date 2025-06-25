@@ -28,7 +28,7 @@ This repository documents everything I learn step-by-step — from theory to han
 ## 📁 Table of Contents
 
 ### 🧠 Basics
-- [📘 Introduction to Cybersecurity](Basics/1. Introduction.md)
+- [📘 Introduction to Cybersecurity](Basics/1.Introduction.md)
 - [💣 Common Cyber Attack Types](Basics/1.Introduction.md)
 - [🔐 CIA Triad](Basics/3.CIA-Triads.md)
 - [🎯 Cyber Kill Chain](4.Basics/Cyber_Kill_Chain.md)
