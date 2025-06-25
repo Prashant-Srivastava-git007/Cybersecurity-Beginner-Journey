@@ -7,26 +7,23 @@ This repository documents everything I learn step-by-step — from theory to han
 
 ## 📚 Modules Covered
 
-- ✅ **Day 1–3**: Cybersecurity Basics (CIA Triad, Threat Types, Kill Chain)
-- ✅ **Day 4–6**: Networking & Protocols (OSI Model, TCP/IP, DNS, ICMP)
-- 🔄 **Day 7–9**: Tools – Wireshark, Nmap (Packet capture, scanning)
-- 🔄 **Day 10–13**: Linux + Bash Basics + TryHackMe Setup
-- 🔜 **Day 14–20**: TryHackMe Labs (Reconnaissance, Enumeration, Exploitation)
-- 🔜 **Week 4–5**: GenAI for Cybersecurity + Mini Projects
-- 🔜 **Week 6+**: SIEM, Threat Hunting, Resume & Job Prep
+- ✅ **Module-1**: Cybersecurity Basics (CIA Triad, Threat Types, Kill Chain)
+- ✅ **Module-2**: Networking & Protocols (OSI Model, TCP/IP, DNS, ICMP)
+- 🔄 **Module-3**: Tools – Wireshark
+- 🔄 **Module-4**: Linux + Bash Basics 
+- 🔜 **Module**: TryHackMe Labs (Reconnaissance, Enumeration, Exploitation)
+- 🔜 **Module**: GenAI for Cybersecurity + Mini Projects
+- 🔜 **Module**: SIEM, Threat Hunting, Resume & Job Prep
 
 ---
 
 ## 🛠️ Tools & Skills
 
 - **Wireshark** – Packet analysis  
-- **Nmap** – Port scanning  
-- **TryHackMe** – Hands-on cybersecurity labs  
 - **Linux & Bash** – System navigation, scripting basics  
 - **Git & GitHub** – For documentation & showcasing  
-- **GenAI (ChatGPT)** – Threat reporting, automation, recon ideas  
-
----
+ 
+ ---
 
 ## 📁 Table of Contents
 
