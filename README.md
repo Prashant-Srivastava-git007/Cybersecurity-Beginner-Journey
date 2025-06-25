@@ -28,10 +28,10 @@ This repository documents everything I learn step-by-step — from theory to han
 ## 📁 Table of Contents
 
 ### 🧠 Basics
-- [📘 Introduction to Cybersecurity](Basics/Introduction.md)
-- [🔐 CIA Triad](Basics/CIA-Triads.md)
-- [💣 Common Cyber Attack Types](Basics/Cyber_Attack_Types.md)
-- [🎯 Cyber Kill Chain](Basics/Cyber_Kill_Chain.md)
+- [📘 Introduction to Cybersecurity](Basics/1.Introduction.md)
+- [💣 Common Cyber Attack Types](Basics/2.Cyber_Attack_Types.md)
+- [🔐 CIA Triad](Basics/3.CIA-Triads.md)
+- [🎯 Cyber Kill Chain](4.Basics/Cyber_Kill_Chain.md)
 
 ### 🌐 Networking Fundamentals
 - [📶 OSI Model (7 Layers)](Networking/OSI_Model.md)
