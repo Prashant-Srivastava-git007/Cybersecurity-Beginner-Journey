@@ -41,6 +41,7 @@ This repository documents everything I learn step-by-step — from theory to han
 ### 🛠️ Hands-On Tools
 - [🔍 Wireshark](Tools/Wireshark)
 - [💻 Linux](Tools/Linux)
+- [📡 Nmap](Tools/Nmap)
 
 ---
 
