@@ -9,8 +9,8 @@ This repository documents everything I learn step-by-step — from theory to han
 
 - ✅ **Module-1**: Cybersecurity Basics (CIA Triad, Threat Types, Kill Chain)
 - ✅ **Module-2**: Networking & Protocols (OSI Model, TCP/IP, DNS, ICMP)
-- 🔄 **Module-3**: Tools – Wireshark
-- 🔄 **Module-4**: Linux + Bash Basics 
+- ✅ **Module-3**: Tools – Linux
+- ✅ **Module-4**: Tools – Nmap  
 - 🔜 **Module**: TryHackMe Labs (Reconnaissance, Enumeration, Exploitation)
 - 🔜 **Module**: GenAI for Cybersecurity + Mini Projects
 - 🔜 **Module**: SIEM, Threat Hunting, Resume & Job Prep
