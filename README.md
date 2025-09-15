@@ -29,15 +29,18 @@ This repository documents everything I learn step-by-step — from theory to han
 ## 📁 Table of Contents
 
 ### 🧠 Basics
-- [📘 Introduction to Cybersecurity](Basics/1.Introduction.md)
-- [💣 Common Cyber Attack Types](Basics/2.Cyber_Attack_Types.md)
-- [🔐 CIA Triad](Basics/3.CIA-Triads.md)
-- [🎯 Cyber Kill Chain](Basics/4.Cyber_Kill_Chain.md)
+- 1.Introduction.md
+- 2.CIA-Triads.md
+- 3.Cyber_Kill_Chain.md
+- 4.Cyber_Attack_Types.md  
+### 🌐 Networking 
+- 1.Computer_Network_Basics.md
+- 2.Network_Structure.md
+- 3.IP_MAC_DNS_Basics.md
+- 4.OSI_Model.md
 
-### 🌐 Networking Fundamentals
-- [📶 OSI Model (7 Layers)](Networking/OSI_Model.md)
-- [🧭 IP, MAC, and DNS Basics](Networking/IP_MAC_DNS_Basics.md)
-- [🔌 Ports and Protocols](Networking/Ports_and_Protocols.md)
+
+
 
 ### 🛠️ Hands-On Tools
 - [🔍 Wireshark](Tools/Wireshark)
