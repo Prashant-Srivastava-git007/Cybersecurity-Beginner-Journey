@@ -34,10 +34,19 @@ This repository documents everything I learn step-by-step — from theory to han
 - 3.Cyber_Kill_Chain.md
 - 4.Cyber_Attack_Types.md  
 ### 🌐 Networking 
-- 1.Computer_Network_Basics.md
-- 2.Network_Structure.md
-- 3.IP_MAC_DNS_Basics.md
-- 4.OSI_Model.md
+- 01. Computer_Network_Basics.md
+- 02. IP_MAC_Basics.md
+- 03. Subnetting_Basics.md
+- 04. DHCP_Basics.md
+- 05. Network_Structure.md
+- 06. Packets_&_Frames.md
+- 07. TCP_Basics.md
+- 08. UDP_Basics.md
+- 09. Ports_and_Protocols.md
+- 10. DNS_Basics.md
+- 11. Firewall_&_Rules.md
+
+
 
 
 
