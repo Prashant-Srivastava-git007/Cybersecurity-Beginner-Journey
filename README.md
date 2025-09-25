@@ -29,10 +29,11 @@ This repository documents everything I learn step-by-step — from theory to han
 ## 📁 Table of Contents
 
 ### 🧠 Basics
-- 1.Introduction.md
-- 2.CIA-Triads.md
-- 3.Cyber_Kill_Chain.md
-- 4.Cyber_Attack_Types.md  
+- 01. Introduction.md
+- 02. CIA-Triads.md
+- 03. Cyber_Kill_Chain.md
+- 04. Cyber_Attack_Types.md
+
 ### 🌐 Networking 
 - 01. Computer_Network_Basics.md
 - 02. IP_MAC_Basics.md
