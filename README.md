@@ -5,6 +5,13 @@ This repository documents everything I learn step-by-step — from theory to han
 
 ---
 
+## 💻 Lab-Setup
+
+- 01. Virtual-Box
+- 02. pfSense
+
+---
+
 ## 📚 Modules Covered
 
 - ✅ **Module-1**: Cybersecurity Basics (CIA Triad, Threat Types, Kill Chain)
@@ -29,23 +36,23 @@ This repository documents everything I learn step-by-step — from theory to han
 ## 📁 Table of Contents
 
 ### 🧠 Basics
-- 01. Introduction.md
-- 02. CIA-Triads.md
-- 03. Cyber_Kill_Chain.md
-- 04. Cyber_Attack_Types.md
+- 01. Introduction
+- 02. CIA-Triads
+- 03. Cyber_Kill_Chain
+- 04. Cyber_Attack_Types
 
 ### 🌐 Networking 
-- 01. Computer_Network_Basics.md
-- 02. IP_MAC_Basics.md
-- 03. Subnetting_Basics.md
-- 04. DHCP_Basics.md
-- 05. Network_Structure.md
-- 06. Packets_&_Frames.md
-- 07. TCP_Basics.md
-- 08. UDP_Basics.md
-- 09. Ports_and_Protocols.md
-- 10. DNS_Basics.md
-- 11. Firewall_&_Rules.md
+- 01. Computer_Network_Basics
+- 02. IP_MAC_Basics
+- 03. Subnetting_Basics
+- 04. DHCP_Basics
+- 05. Network_Structure
+- 06. Packets_&_Frames
+- 07. TCP_Basics
+- 08. UDP_Basics
+- 09. Ports_and_Protocols
+- 10. DNS_Basics
+- 11. Firewall_&_Rules
 
 
 
