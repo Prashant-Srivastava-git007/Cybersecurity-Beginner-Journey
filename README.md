@@ -22,18 +22,18 @@ This repository documents everything I learn step-by-step — from theory to han
 - ✅ **Module-2**: Networking & Protocols (OSI Model, TCP/IP, DNS, ICMP)
 - ✅ **Module-3**: Tools – Linux
 - ✅ **Module-4**: Tools – Nmap
-- ✅ **Module-4**: Tools – WireShark  
-- 🔜 **Module**: TryHackMe Labs (Reconnaissance, Enumeration, Exploitation)
-- 🔜 **Module**: GenAI for Cybersecurity + Mini Projects
-- 🔜 **Module**: SIEM, Threat Hunting, Resume & Job Prep
+- ✅ **Module-4**: Tools – WireShark
+- ✅ **Module-5**: Password Cracking (John the Ripper)
 
 ---
 
 ## 🛠️ Tools & Skills
 
+- **Linux & Bash** – System navigation, scripting basics
+- **Git & GitHub** – For documentation & showcasing
+- **Nmap** - For Network Scanning 
 - **Wireshark** – Packet analysis  
-- **Linux & Bash** – System navigation, scripting basics  
-- **Git & GitHub** – For documentation & showcasing  
+- **John the Ripper** - For Password Cracking  
  
  ---
 
@@ -67,7 +67,7 @@ This repository documents everything I learn step-by-step — from theory to han
 - [🔍 Wireshark](Tools/Wireshark)
 - [💻 Linux](Tools/Linux)
 - [📡 Nmap](Tools/Nmap)
-
+- 🔑 John the Ripper - Password Cracking
 ---
 
 ## 🎯 Goal of This Repository
