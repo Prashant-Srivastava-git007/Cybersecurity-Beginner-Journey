@@ -24,6 +24,7 @@ This repository documents everything I learn step-by-step — from theory to han
 - ✅ **Module-4**: Tools – Nmap
 - ✅ **Module-4**: Tools – WireShark
 - ✅ **Module-5**: Password Cracking (John the Ripper)
+- ⏳ **Module-6**: Email and Phishing Analysis
 
 ---
 
