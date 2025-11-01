@@ -34,8 +34,8 @@ This repository documents everything I learn step-by-step — from theory to han
 - **Git & GitHub** – For documentation & showcasing
 - **Nmap** - For Network Scanning 
 - **Wireshark** – Packet analysis  
-- **John the Ripper** - For Password Cracking  
- 
+- **John the Ripper** - For Password Cracking
+- **Windows Forensic** - Sysmon, Splunk....
  ---
 
 ## 📁 Table of Contents
