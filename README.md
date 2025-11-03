@@ -13,6 +13,7 @@ This repository documents everything I learn step-by-step — from theory to han
 - 04. pfSense-Configuration
 - 05. Windows-11
 - 06. pfSense-Setting-Rules
+- 07. Kali Linux 
 
 ---
 
