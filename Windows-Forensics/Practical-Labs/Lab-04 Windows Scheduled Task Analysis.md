@@ -21,4 +21,12 @@ Action:
 
 This task was created through Task Scheduler → Create Task.
 
+**Allow the Task to Run**
+
+Wait 5–10 minutes so the task executes at least once.
+This simulates:
+* Persistence
+* A command execution
+* A writable output file being generated
+
 ---
