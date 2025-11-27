@@ -28,16 +28,6 @@ This repository documents everything I learn step-by-step — from theory to han
 - ✅ **Module-6**: Email and Phishing Analysis
 - ⏳ **Module-7**: Windows Forensics
 
----
-
-## 🛠️ Tools & Skills
-
-- **Linux & Bash** – System navigation, scripting basics
-- **Git & GitHub** – For documentation & showcasing
-- **Nmap** - For Network Scanning 
-- **Wireshark** – Packet analysis  
-- **John the Ripper** - For Password Cracking
-- **Windows Forensic** - Sysmon, Splunk....
  ---
 
 ## 📁 Table of Contents
