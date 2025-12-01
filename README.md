@@ -27,7 +27,8 @@ This repository documents everything I learn step-by-step — from theory to han
 - ✅ **Module-5**: Password Cracking (John the Ripper)
 - ✅ **Module-6**: Email and Phishing Analysis
 - ✅ **Module-7**: Windows Forensics
-- ⏳ **Module-8**: Browser Forensics
+- ✅ **Module-8**: Browser Forensics
+- ⏳ **Module-8**: Memory Forensics
 
  ---
 
