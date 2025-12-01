@@ -12,11 +12,11 @@ The following actions were performed on the machine and now exist in its service
 
 **Create a Fake Windows Service**
 ```powershell
-sc create MyFakeService binPath= "C:\Windows\System32\notepad.exe" start= auto
+sc.exe create MyFakeService binPath= "C:\Windows\System32\notepad.exe" start= auto
 ```
 **Verify the Service Exists**
 ```powershell
-sc query MyFakeService
+sc.exe query MyFakeService
 ```
 This creates a service entry that can be examined during forensic analysis to understand how service-based persistence is configured on Windows systems.
 
