@@ -32,6 +32,8 @@ This repository documents everything I learn step-by-step — from theory to han
   - Memory Forensics
   - Velociraptor
 - ⏳ **Module-8**: SIEMs
+  - Splunk ✅
+  - ELK ⏳
  
  ---
 
