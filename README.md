@@ -33,7 +33,8 @@ This repository documents everything I learn step-by-step — from theory to han
   - Velociraptor ✅
 - ⏳ **Module-8**: SIEMs
   - Splunk ✅
-  - ELK ⏳
+  - ELK ✅
+  - Wazuh ⏳
  
  ---
 
